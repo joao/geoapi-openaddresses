@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/openaddresses/openaddresses/master/sources/pt/
 Ficheiro alojado em box.wolan.net:  
 https://box.wolan.net/geoapi/pt_addresses.csv.zip
 
+Utilizado para alimentar as moradas no projecto geoapi.pt
 
 ## tarefas
 - github action que faça download do ficheiro semanalmente e compare com o alojado em wolan.net  
